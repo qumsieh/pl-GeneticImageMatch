@@ -247,7 +247,7 @@ options:
                               Default = 100
     -xover_rate <float>       GA crossover rate from 0 to 1.        OPTIONAL
                               Default = 0.91
-    -mutatin_rate <float>     GA mutation rate from 0 to 1.         OPTIONAL
+    -mutation_rate <float>    GA mutation rate from 0 to 1.         OPTIONAL
                               Default = 0.01
     -generations <integer>    The number of generations to evolve.  OPTIONAL
                               Default = 200
